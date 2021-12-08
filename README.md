@@ -32,8 +32,10 @@ Code:
 # Pins:
 
 ### To change the pin numbers just change the `RED` `YELLOW` AND `GREEN` values!
+<br>
 
 Default Config:
+
 
 9 = RED
 
