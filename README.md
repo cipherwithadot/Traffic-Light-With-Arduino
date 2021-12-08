@@ -5,9 +5,9 @@ Code:
 
     //My Traffic Light Simulation With Arduino!
 
-    int RED = 9;      //9 = RED
-    int YELLOW = 10;  //10 = YELLOW
-    int GREEN = 11;   //11 = GREEN
+    int RED = 9;       //9 = RED
+    int YELLOW = 10;   //10 = YELLOW
+    int GREEN = 11;    //11 = GREEN
     
     void setup()
     {
@@ -30,6 +30,10 @@ Code:
     }
 
 # Pins:
+
+### To change the pin numbers just change the `RED` `YELLOW` AND `GREEN` values!
+
+Default Config:
 
 9 = RED
 
