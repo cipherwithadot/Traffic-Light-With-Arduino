@@ -1,4 +1,4 @@
-# Traffic-Lights
+# Traffic Light With Arduino!
 ### Very Simple Traffic Light Simulation With Arduino!
 
 Code:
