@@ -26,8 +26,12 @@ Code:
       digitalWrite(11, LOW);
     }
 
+Pins:
+
 9 = RED
+
 10 = YELLOW
+
 11 = GREEN
 
 Hope it helps :)
