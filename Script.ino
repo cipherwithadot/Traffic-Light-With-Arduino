@@ -1,4 +1,8 @@
-//My Traffic Light Simulation With Arduino
+//My Traffic Light Simulation With Arduino!
+
+int RED = 9;       //9 = RED
+int YELLOW = 10;   //10 = YELLOW
+int GREEN = 11;    //11 = GREEN
 
 void setup()
 {
@@ -9,14 +13,13 @@ void setup()
 
 void loop()
 {
-  digitalWrite(11, LOW);
-  digitalWrite(9, HIGH);
+  digitalWrite(RED, HIGH);
   delay(2000); // Wait for 2000 millisecond(s)
-  digitalWrite(9, LOW);
-  digitalWrite(10, HIGH);
+  digitalWrite(RED, LOW);
+  digitalWrite(YELLOW, HIGH);
   delay(2000); // Wait for 2000 millisecond(s)
-  digitalWrite(10, LOW);
-  digitalWrite(11, HIGH);
+  digitalWrite(YELLOW, LOW);
+  digitalWrite(GREEN, HIGH);
   delay(2000); // Wait for 2000 millisecond(s)
-  digitalWrite(11, LOW);
+  digitalWrite(GREEN, LOW);
 }
