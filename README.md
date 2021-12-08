@@ -1,5 +1,5 @@
 # Traffic-Lights
-Traffic Light Simulation With Arduino
+Very Simple Traffic Light Simulation With Arduino
 
 Code:
 
@@ -26,7 +26,7 @@ Code:
       digitalWrite(11, LOW);
     }
 
-Pins:
+# Pins:
 
 9 = RED
 
@@ -34,4 +34,6 @@ Pins:
 
 11 = GREEN
 
-Hope it helps :)
+<br>
+
+### Code By @PndaBoi, Hope it helps! :)
