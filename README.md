@@ -25,5 +25,9 @@ Code:
       delay(2000); // Wait for 2000 millisecond(s)
       digitalWrite(11, LOW);
     }
-    
+
+9 = RED
+10 = YELLOW
+11 = GREEN
+
 Hope it helps :)
