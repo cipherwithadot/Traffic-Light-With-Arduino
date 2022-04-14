@@ -45,4 +45,4 @@ Default Config:
 
 <br>
 
-### Code By <a href="https://github.com/pndaboi">@PndaBoi</a>, Hope it helps! :)
+### Code By <a href="https://github.com/Cipher-GF">me</a>, Hope it helps! :)
